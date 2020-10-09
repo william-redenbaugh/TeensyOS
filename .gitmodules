@@ -10,3 +10,9 @@
 [submodule "DS_HELPER/Red-Black-Tree"]
 	path = DS_HELPER/Red-Black-Tree
 	url = git@github.com:william-redenbaugh/Red-Black-Tree.git
+[submodule "HAL/MAX7219_Dot_Matrix"]
+	path = HAL/MAX7219_Dot_Matrix
+	url = git@github.com:william-redenbaugh/MAX7219_Dot_Matrix.git
+[submodule "HAL/Arduino-LiquidCrystal-I2C-library"]
+	path = HAL/Arduino-LiquidCrystal-I2C-library
+	url = git@github.com:william-redenbaugh/Arduino-LiquidCrystal-I2C-library.git

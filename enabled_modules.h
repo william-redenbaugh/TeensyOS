@@ -50,6 +50,16 @@
 //#define MPU6050_MODULE
 
 /*!
+*   @brief Module that controls the max7219 dotmatrix module
+*/
+#define MAX7219_DOTMATRIX_MODULE 
+
+/*!
+*   @brief Module that controls the LiquidCrystalI2C Library
+*/
+#define LIQUIDCRYSTAL_I2C_MODULE
+
+/*!
 *   @brief Easy module that allows us to read voltages 
 */
 //#define VOLTAGE_READ_MODULE
