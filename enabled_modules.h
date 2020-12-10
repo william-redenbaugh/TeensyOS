@@ -47,7 +47,7 @@
 /*!
 *   @brief IMU module for dealing with mpu6050 stuff
 */
-// #define MPU6050_MODULE
+#define MPU6050_MODULE
 
 /*!
 *   @brief Easy module that allows us to read voltages 
